@@ -1,0 +1,18 @@
+{
+    "cats": [
+       {"category": "male", "age": "4", "likesKids": true, "name": "Grumpy"},
+       {"category": "male", "age": "9", "likesKids": true, "name": "Milo"},
+       {"category": "male", "age": "2", "likesKids": false, "name": "Oliver"},
+       {"category": "female", "age": "1", "likesKids": true, "name": "Zoe"},
+       {"category": "female", "age": "2", "likesKids": false, "name": "Lilly"},
+       {"category": "female", "age": "3", "likesKids": true, "name": "Minnie"}
+    ],
+    "dogs": [
+        {"category": "male", "age": "6", "likesKids": true, "name": "Lucky"},
+        {"category": "male", "age": "5", "likesKids": true, "name": "Tigger"},
+        {"category": "male", "age": "8", "likesKids": false, "name": "Gizmo"},
+        {"category": "female", "age": "3", "likesKids": true, "name": "Holly"},
+        {"category": "female", "age": "2", "likesKids": false, "name": "Missy"},
+        {"category": "female", "age": "1", "likesKids": true, "name": "Daisy"}
+    ]
+}
