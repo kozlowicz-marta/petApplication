@@ -4,7 +4,7 @@ interface Props {
     
 }
 
-const Core = (props: Props) => {
+const PetsItem = (props: Props) => {
     return (
         <div>
             Hello
@@ -12,4 +12,4 @@ const Core = (props: Props) => {
     )
 }
 
-export default Core
+export default PetsItem
